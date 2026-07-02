@@ -1,6 +1,6 @@
 name = "scorebook"
 main = "_worker.js"
-compatibility_date = "2026-6-15"
+compatibility_date = "2026-06-16"
 keep_vars = true
 
 #[[kv_namespaces]]
